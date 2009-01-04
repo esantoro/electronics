@@ -1,0 +1,9 @@
+Si vuole usare come sistema anti intrusione cinque coppie di
+trasmettitori/ricevitori distanti verticalmente 
+tra di loro 40 cm.
+Il sistema di allarme è attivato al livello alto se sono interrotti
+almeno due raggi consecutivi.
+L'interruzione del raggio produce un livello alto sul sensore
+ricevitore. L'interruzione del terzo e del 
+primo raggio non attiva l'allarme perchè si presuppone dovuto al
+passaggio simultaneo di volatili.
